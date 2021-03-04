@@ -6,8 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="idgenerator" />
+        <module name="vesta-doc" />
         <module name="idGenerator" />
+        <module name="vesta-rest-netty" />
+        <module name="vesta-intf" />
+        <module name="vesta-server" />
+        <module name="vesta-sample" />
+        <module name="vesta-rest" />
+        <module name="vesta-service" />
+        <module name="vesta-client" />
       </profile>
     </annotationProcessing>
   </component>
